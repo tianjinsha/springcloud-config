@@ -1,0 +1,4 @@
+springcloud:
+  name: tianjinshan
+  age: 18
+  sex: 男
